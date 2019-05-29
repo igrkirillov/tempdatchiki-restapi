@@ -1,0 +1,12 @@
+*.iml
+target
+*.classpath
+*.project
+*.log
+*.log.[0-9]*
+JPOS.txt.[0-9]*
+.settings
+pom.xml.*
+release.properties
+
+.idea
